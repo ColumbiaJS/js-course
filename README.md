@@ -5,7 +5,7 @@ This repo was created using hub and the following commands ([for more on hub, a 
 (mcd is a shortcut command for mkdir [dirName] && cd [dirName])
 
 ```sh
-$ mcd js-course-guide
+$ mcd js-course
 $ hub init
 $ touch README.md
 $ hub add . && hub commit -m "initial commit"
