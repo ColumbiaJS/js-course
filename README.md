@@ -11,5 +11,4 @@ $ touch README.md
 $ hub add . && hub commit -m "initial commit"
 $ hub create [optional_organization_name]/[repo_name] -d "[repo_description]"
 $ hub push origin master
-
-
+```
