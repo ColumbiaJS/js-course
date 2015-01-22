@@ -1,0 +1,3 @@
+An introduction to the JavaScript language.
+
+This intro uses Grunt to run the test suite whenever a file changes.  To run these tests, first run `npm install` inside of this directory (this will install of the necessary dependencies into a node_modules/ directory).  Then simply run `$ grunt` to start the test suite (this assumes you have Chrome installed).  If you do not have Chrome and would like to run the suite in a "headless browser" (meaning that the results will be displayed on the command-line and it won't open a browser at all), simply uncomment line 10 of Gruntfile.js and comment out line 11.
