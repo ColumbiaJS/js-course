@@ -64,6 +64,3 @@ test/fixtures/
 # ignore redis snapshots
 dump.rdb
 *.rdb
-
-# generated with usemin
-src/
