@@ -1,5 +1,12 @@
 ## Columbia Course in Advanced Javascript, Spring 2014
 
+### [COURSE WIKI PAGE](https://github.com/ColumbiaJS/js-course/wiki)
+
+[Please refer to the course wiki for all relevant course info, including course overview, syllabus, homework assignments, JavaScript fundamentals, etc.](https://github.com/ColumbiaJS/js-course/wiki)
+
+
+### How this repo was created:
+
 This repo was created using hub and the following commands ([for more on hub, a tool created to help you win at git](http://github.com/github/hub))
 
 (mcd is a shortcut command for mkdir [dirName] && cd [dirName])
